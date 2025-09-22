@@ -2,7 +2,7 @@
 
 kaggle competition for predicting sale price of apartments. By The Cramer Project (thecramer.com) and AI Academy
 
-Evaluation Metrics - SMAPE
+Evaluation Metrics (SMAPE)  - 9.10056% reached
 
 Model - CatBoostRegressor
 
