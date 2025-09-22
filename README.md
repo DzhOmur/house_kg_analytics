@@ -1,2 +1,2 @@
-# house_kg_analytics
-analysis of Kyrgyzstan's housing market
+# Model Predicting the cost of apartments in Kyrgyzstan
+Parsed from [house.kg](https://www.house.kg/)
